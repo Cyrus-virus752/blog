@@ -1,18 +1,10 @@
 个人博客 >> https://www.alienzhou.com/
 
-不定期发布一些技术学习的收获，主要聚焦于大前端领域，也会有一些其他内容。欢迎star 🌟
-
-# 目录
-
-<!-- vscode-markdown-toc -->
-1. [最新更新](#)
-2. [综合列表](#-1)
-3. [开源项目学习](#-1)
-4. [自动化工具](#-1)
-5. [CSS 学习](#CSS)
-6. [性能](#-1)
-7. [Webpack进阶](#Webpack)
-8. [CSS模块化](#CSS-1)
+Config: config/config.ts (defineConfig), config/routes.ts (declarative routes). Route name → menu.xxx i18n key; access field gates visibility)) 🌟
+_🐍
+_(⁠┛⁠ಸ⁠_⁠ಸ⁠)⁠┛⁠彡⁠┻⁠━⁠┻
+<!-- vscode-markdownpython scripts/pulse.py
+shell: /usr/bin/bash -e }_bash(shell) ##[group]Run python scripts/pulse.py_v2(#CSS-1)
 9. [PWA](#PWA)
 10. [知识速览](#-1)
 11. [阅读笔记](#reading)
